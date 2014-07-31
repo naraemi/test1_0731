@@ -13,7 +13,7 @@ public class Intro extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.intro);
 		
-		String test="";
+		String test="Å×½ºÆ®";
 		new Thread(new Runnable() {
 			public void run() {
 				// TODO Auto-generated method stub
